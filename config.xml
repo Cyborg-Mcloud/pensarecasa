@@ -43,7 +43,7 @@
 
 <preference name="StatusBarOverlaysWebView" value="true" />
 <preference name="StatusBarBackgroundColor" value="#FFFFFF" />
-<preference name="StatusBarStyle" value="lightcontent" />
+<preference name="StatusBarStyle" value="styleDefault" />
 
 	<description>
 Pensarecasa
