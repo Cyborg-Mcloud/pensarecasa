@@ -3,8 +3,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.designge.pensarecasa"
-	    versionCode="11" 
-        version   = "1.0.1"
+	    versionCode="12" 
+        version   = "1.0.2"
 		package="com.designge.pensarecasa"
 		xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Pensarecasa</name>
